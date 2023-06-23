@@ -1,0 +1,9 @@
+.data-toggle:hover {
+    color:#32CD32; 
+    background-color: white; 
+ }
+
+ .data-toggle:not(:hover) {
+    color:black;
+    background-color: white; 
+}
