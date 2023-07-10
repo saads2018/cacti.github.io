@@ -9,13 +9,13 @@ View Website : http://cactisucculentkch.infinityfreeapp.com/public
 
 ## Table of Contents
 
-- [Sections](#Sections)
-- [Login & Register](#Login-&-Register)
-- [Products Page](#ProductsPage)
-- [Cart](#Cart)
-- [Checkout](#Checkout)
-- [Manage Suppliers/Products](#ManageSuppliers/Products)
-- [Manage Orders](#ManageOrders)
+- [Sections](#sections)
+- [Login & Register](#login--register)
+- [Products Page](#products-page)
+- [Cart](#cart)
+- [Checkout](#checkout)
+- [Manage Suppliers/Products](#manage-suppliersproducts)
+- [Manage Orders](#manage-orders)
 
 ## Sections
 ## Login & Register
