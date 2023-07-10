@@ -35,8 +35,8 @@ View Website : http://cactisucculentkch.infinityfreeapp.com/public
 ## Login & Register
 
 <div display="flex">
-<img width="500" height="300"  src="https://github.com/saads2018/cacti.github.io/assets/71264405/b9bf4ec6-5d07-4326-8116-9caa74ad63f1">
-<img width="500" height="300" src="https://github.com/saads2018/cacti.github.io/assets/71264405/610d3445-3ec0-4c04-811c-626ff6195e39">    
+<img width="500" height="400"  src="https://github.com/saads2018/cacti.github.io/assets/71264405/b9bf4ec6-5d07-4326-8116-9caa74ad63f1">
+<img width="500" height="400" src="https://github.com/saads2018/cacti.github.io/assets/71264405/610d3445-3ec0-4c04-811c-626ff6195e39">    
 </div>
 
 <br/>
