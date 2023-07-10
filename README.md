@@ -19,7 +19,7 @@ View Website : http://cactisucculentkch.infinityfreeapp.com/public
 
 ## Sections
 
-** Customer Side
+:thumbsup: Customer Side
 
 ## Login & Register
 ## Products Page
