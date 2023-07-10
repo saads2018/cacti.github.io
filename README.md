@@ -9,7 +9,7 @@ View Website : http://cactisucculentkch.infinityfreeapp.com/public
 
 ## Table of Contents
 
-- [Sections](Sections)
+- [Sections](## Sections)
 - [Login/Register](Login/Register)
 - [Products Page](url)
 - [Cart](url)
