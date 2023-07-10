@@ -10,7 +10,7 @@ View Website : http://cactisucculentkch.infinityfreeapp.com/public
 ## Table of Contents
 
 - [Sections](#sections)
-- [Login/Register](#login/register)
+- [Login/Register](#login)
 - [Products Page](#ProductsPage)
 - [Cart](#Cart)
 - [Checkout](#Checkout)
