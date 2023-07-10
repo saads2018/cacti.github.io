@@ -10,18 +10,17 @@ View Website : http://cactisucculentkch.infinityfreeapp.com/public
 ## Table of Contents
 
 - [Sections](#Sections)
-- [Login/Register](Login/Register)
-- [Products Page](url)
-- [Cart](url)
-- [Checkout](url)
-- [Manage Suppliers/Products](url)
-- [Manage Orders](url)
+- [Login/Register](#Login/Register)
+- [Products Page](#ProductsPage)
+- [Cart](#Cart)
+- [Checkout](#Checkout)
+- [Manage Suppliers/Products](#ManageSuppliers/Products)
+- [Manage Orders](#ManageOrders)
 
 ## Sections
-
-
-
-
-
-
 ## Login/Register
+## Products Page
+## Cart
+## Checkout
+## Manage Suppliers/Products
+## Manage Orders
