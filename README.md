@@ -19,18 +19,18 @@ View Website : http://cactisucculentkch.infinityfreeapp.com/public
 
 ## Sections
 
-#### :thumbsup: Login/Register
-#### :thumbsup: Products Page
-#### :thumbsup: Search Results
-#### :thumbsup: Item Page
-#### :thumbsup: Cart Page
-#### :thumbsup: Checkout Page
-#### :thumbsup: Admin Dashboard
-#### :thumbsup: Manage Products
-#### :thumbsup: Manage Suppliers
-#### :thumbsup: Manage Orders
-#### :thumbsup: Profile Pages (Customer & Admin)
-#### :thumbsup: Manage Admins
+#### :exclamation: Login/Register
+#### :exclamation: Products Page
+#### :exclamation: Search Results
+#### :exclamation: Item Page
+#### :exclamation: Cart Page
+#### :exclamation: Checkout Page
+#### :exclamation: Admin Dashboard
+#### :exclamation: Manage Products
+#### :exclamation: Manage Suppliers
+#### :exclamation: Manage Orders
+#### :exclamation: Profile Pages (Customer & Admin)
+#### :exclamation: Manage Admins
 
 ## Login & Register
 ## Products Page
