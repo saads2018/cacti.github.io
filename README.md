@@ -18,6 +18,9 @@ View Website : http://cactisucculentkch.infinityfreeapp.com/public
 - [Manage Orders](#manage-orders)
 
 ## Sections
+
+* Customer Side
+
 ## Login & Register
 ## Products Page
 ## Cart
