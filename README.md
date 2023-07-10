@@ -19,7 +19,18 @@ View Website : http://cactisucculentkch.infinityfreeapp.com/public
 
 ## Sections
 
-#### :thumbsup: Customer Side
+#### :thumbsup: Login/Register
+#### :thumbsup: Products Page
+#### :thumbsup: Search Results
+#### :thumbsup: Item Page
+#### :thumbsup: Cart Page
+#### :thumbsup: Checkout Page
+#### :thumbsup: Admin Dashboard
+#### :thumbsup: Manage Products
+#### :thumbsup: Manage Suppliers
+#### :thumbsup: Manage Orders
+#### :thumbsup: Profile Pages (Customer & Admin)
+#### :thumbsup: Manage Admins
 
 ## Login & Register
 ## Products Page
